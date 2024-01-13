@@ -1,5 +1,5 @@
 # ICVS Project
-## Demonstrating the vulnerability in the CAN bus by intercepting packets from the incoming channel and forwarding modified data to the receiving channel.
+## Demonstrating the vulnerability in the CAN bus by intercepting packets from the incoming channel and forwarding modified data to the receiving channel(MITM)
 
 ### The simulation is performed using the virtual instrument cluster simulator, __ICSim__.
 ### To set up 2 channels
